@@ -1,4 +1,4 @@
-package tech.sunilkumarsahu.games.jungal;
+package tech.sunilkumarsahu.games;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

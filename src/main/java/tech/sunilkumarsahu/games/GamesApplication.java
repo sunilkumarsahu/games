@@ -1,4 +1,4 @@
-package tech.sunilkumarsahu.games.jungal;
+package tech.sunilkumarsahu.games;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
